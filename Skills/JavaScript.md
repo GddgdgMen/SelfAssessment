@@ -85,17 +85,17 @@
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 🙋 explained
-  - `Function.prototype.call`: 🖐️ used
-  - `Function.prototype.bind`: 🖐️ used
-  - `Function.prototype.apply`: 🖐️ used
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
   - `Map`: 🙋 explained
   - `Set`: 🙋 explained
-  - `WeakMap`: 🙋 explained
-  - `WeakSet`: 🙋 explained
-  - Typed arrays: 🖐️ used
+  - `WeakMap`: 🖐️ used
+  - `WeakSet`: 🖐️ used
+  - Typed arrays
   - Mixins: 🎓 known
   - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
@@ -114,9 +114,9 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 👂 heard
   - Node.js: 🙋 explained
-  - npm: 🙋 explained
-  - prettier: 🙋 explained
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39: 🎓 known
+  - TC39: 👂 heard
